@@ -1,0 +1,6 @@
+framework module Pods_bitScoper2 {
+  umbrella header "Pods-bitScoper2-umbrella.h"
+
+  export *
+  module * { export * }
+}

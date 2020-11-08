@@ -1,0 +1,24 @@
+PODS:
+  - CocoaAsyncSocket (7.6.4)
+  - CocoaMQTT (1.2.5):
+    - CocoaAsyncSocket (~> 7.6.3)
+  - HGCircularSlider (2.2.0)
+
+DEPENDENCIES:
+  - CocoaMQTT
+  - HGCircularSlider
+
+SPEC REPOS:
+  trunk:
+    - CocoaAsyncSocket
+    - CocoaMQTT
+    - HGCircularSlider
+
+SPEC CHECKSUMS:
+  CocoaAsyncSocket: 694058e7c0ed05a9e217d1b3c7ded962f4180845
+  CocoaMQTT: a61490ed3b328011c5d75169a77781983e2bb221
+  HGCircularSlider: afb1942743a2df156dcc7a3500216e523e14266b
+
+PODFILE CHECKSUM: ab83e4ac1f440ff7ad536a9133ef8abc2288122a
+
+COCOAPODS: 1.9.3

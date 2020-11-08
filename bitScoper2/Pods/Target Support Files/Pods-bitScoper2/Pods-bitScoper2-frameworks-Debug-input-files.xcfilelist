@@ -1,0 +1,4 @@
+${PODS_ROOT}/Target Support Files/Pods-bitScoper2/Pods-bitScoper2-frameworks.sh
+${BUILT_PRODUCTS_DIR}/Charts/Charts.framework
+${BUILT_PRODUCTS_DIR}/CocoaAsyncSocket/CocoaAsyncSocket.framework
+${BUILT_PRODUCTS_DIR}/CocoaMQTT/CocoaMQTT.framework

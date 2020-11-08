@@ -1,0 +1,6 @@
+framework module Pods_potToSwift {
+  umbrella header "Pods-potToSwift-umbrella.h"
+
+  export *
+  module * { export * }
+}
